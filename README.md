@@ -1,0 +1,2 @@
+# token
+Mofi smart contract 
